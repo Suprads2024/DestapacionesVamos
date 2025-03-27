@@ -2774,7 +2774,7 @@ blockquote:before {
 
 /*  service-overview  */
 .service-overview {
-	padding-top: 105px;
+	padding-top: 50px;
 	padding-bottom: 66px;
 	border-top: 1px solid #e5e4e4;
 	border-bottom: 1px solid #e5e4e4;
